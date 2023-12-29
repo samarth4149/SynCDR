@@ -1,2 +1,2 @@
 # SynCDR
-Code for SynCDR
+Code for SynCDR : Training Cross Domain Retrieval Models with Synthetic Data. Coming Soon.
